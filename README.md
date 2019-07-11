@@ -1,2 +1,3 @@
-# til
-Today I learned
+# TIL - Today I Learned
+
+Is a collection of learning notes, resources etc.
