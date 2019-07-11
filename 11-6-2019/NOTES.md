@@ -20,3 +20,5 @@
 ## General Learning
 
 :hammer: Working on React Movie Discover App, refresh on React knowledge
+
+:hammer: Getting more comfortable with using ```PropTypes``` in stateless components as opposed to stateful components
