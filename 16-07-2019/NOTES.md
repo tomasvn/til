@@ -27,7 +27,8 @@ Redux is divided into 3 main parts
 - actions
 
 Reducer
-- pure function, takes in 2 parameters (initialState, actions)
+- pure function, takes in 2 parameters (state, actions)
+  - the state parametr can take a default parametr, to which we set the initialState
 - function that returns state object
 - never mutate state in reducer
 - if we use ```switch()```, make sure we have a default case that returns ```state```
