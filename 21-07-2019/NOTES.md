@@ -11,7 +11,7 @@
   - first param in connect is stateProps
   - second param in connect is dispatchProps
   - third param in connect is ownProps
-* If we are missing some params in ```connect()``` we can pass ```null``
+* If we are missing some params in ```connect()``` we can pass ```null```
 * dispatching actions with ```mapDispatchToProps```
 * ```mapDispatchToProps``` has two forms
   - function form - allows more customization
