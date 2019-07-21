@@ -18,7 +18,7 @@
   - object shorthand form - easier to use
 * We need to import thunk action which we have created earlier _see redux-movie-discover > fetch.js_
 
-# Redux Selector
+## Redux Selector
 - one of the main part of core concept of redux
 - we know that redux is divided into three parts - actions, reducers, selectors
 
