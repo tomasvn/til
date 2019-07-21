@@ -2,7 +2,7 @@
 
 :calendar: 21-07-2019
 
-# Redux Learning - continue
+## Redux Learning - continue
 
 :mortar_board: Connecting react to redux - _see redux-movie-discover in react-repo_
 
