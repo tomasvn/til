@@ -17,7 +17,7 @@ Is a collection of learning notes, resources etc.
 - redux learning
 - talks about what is redux
 - how redux is divided
-- what are actions, reucer, selectors
+- what are actions, reducer, selectors
 - how to create store, how to connect store to react app
 
 * **21-07-2019**
