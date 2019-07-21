@@ -21,3 +21,8 @@ Is a collection of learning notes, resources etc.
 - how to create store, how to connect store to react app
 
 * **21-07-2019**
+- continue learning about redux
+- how to connect redux and react - via ```connect()``` method
+  - we know that ```connect()``` method takes in 3 params
+- learn about redux selectors
+- learn about function ```mapStateToProps```
