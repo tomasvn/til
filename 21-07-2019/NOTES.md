@@ -24,3 +24,11 @@
 
 - what is selector?
   - is a function that we can use to take a value out of the redux state
+  - data will be written into state via reducer
+
+- ```mapStateToProps```
+  - ```mapStateToProps``` function has 2 args
+    - ```state```
+    - ```ownProps?``` - which is _optional_
+  - it receives entire store state, and should return object of data
+  - ```mapStateToProps``` - should be defined as function, first arg should be ```state```
