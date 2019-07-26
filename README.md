@@ -26,3 +26,8 @@ Is a collection of learning notes, resources etc.
     - we know that ```connect()``` method takes in 3 params
   - learn about redux selectors
   - learn about function ```mapStateToProps```
+
+* **26-07-2019**
+  - continue learning about redux
+  - general learning - intersection observer, hoisting, block scope
+  - quick refresher on object methods, array methods
