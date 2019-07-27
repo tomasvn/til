@@ -3,6 +3,7 @@
 :calendar: 26-07-2019
 
 ## Redux Learning - continue
+- mapDispatchToProps - retrieve actions and dispatch them to store
 
 - need to read chapter about selectors in redux again
 - read chapter about ```mapStateToProps``` again
