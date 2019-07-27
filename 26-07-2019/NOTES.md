@@ -10,7 +10,6 @@
 
 ## General Learning
 
-- Learn deeply about hoisting, block scoping - try to finally understand it, properply
 
 ## Quick refresher
 - object methods
@@ -25,6 +24,8 @@
   - event bubbling
   - event capturing
   - event propagation
+
+- Learn deeply about hoisting, block scoping - try to finally understand it, properply
 
 ## Milestone
 - reimplemented load more component from ```react-movie-discover``` app using ```redux``` to manage ```state```
