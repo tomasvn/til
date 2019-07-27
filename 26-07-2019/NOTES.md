@@ -12,11 +12,6 @@
 
 - Learn deeply about hoisting, block scoping - try to finally understand it, properply
 
-- Events
-  - event bubbling
-  - event capturing
-  - event propagation
-
 ## Quick refresher
 - object methods
 - different array methods
@@ -25,6 +20,11 @@
 ## To Learn
 - Intersection Observer API
   - learn about different use possible use cases?
+
+- Events
+  - event bubbling
+  - event capturing
+  - event propagation
 
 ## Milestone
 - reimplemented load more component from ```react-movie-discover``` app using ```redux``` to manage ```state```
