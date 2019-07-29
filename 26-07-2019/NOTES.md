@@ -22,9 +22,18 @@
   - learn about different use possible use cases?
 
 - Events
+  - DOM events has 3 phases
+    - capturing phase
+    - target phase
+    - bubbling phase
+
   - event bubbling
-  - event capturing
-  - event propagation
+    - when the events "bubble up" which will fire event on all parents in DOM tree
+    - know as event propagation
+    - to stop bubbling - we use ```event.stopProppagation()```
+  - event delegation
+    - if we attach an event listener to a DOM element it will fire on its descendants
+    - eg. if we attach an event listener to a ```<ul>``` with ```<li>``` elements we are adding event listener to those elements as well
 
 - Learn deeply about hoisting, block scoping - try to finally understand it, properply
 
