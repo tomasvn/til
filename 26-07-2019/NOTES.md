@@ -38,4 +38,4 @@
 - Learn deeply about hoisting, block scoping - try to finally understand it, properply
 
 ## Milestone
-- reimplemented load more component from ```react-movie-discover``` app using ```redux``` to manage ```state```
+- reimplemented load more component from ```react-movie-discover``` in ```redux``` app version
