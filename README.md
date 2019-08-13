@@ -31,3 +31,6 @@ Is a collection of learning notes, resources etc.
   - continue learning about redux
   - general learning - intersection observer, hoisting, block scope
   - quick refresher on object methods, array methods
+
+* **02-08-2019**
+  - learn about ```combineReducers()```
