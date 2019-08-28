@@ -39,3 +39,5 @@ Actions
   - payload
 - action types are written as string which are stored in constants
 - we also have so called _action creators_ which are plain functions that returns an action object
+
+[Redux Data Flow Image](http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/9)
