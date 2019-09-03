@@ -36,6 +36,7 @@ Is a collection of learning notes, resources etc.
   - learn about ```combineReducers()```
 
 * **03-09-2019**
+  - learn about basic react hooks
   - learn basics of typescript
   - basic stuff - defining propTypes for react
     - using Type vs. Iterface
