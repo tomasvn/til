@@ -34,3 +34,11 @@ Is a collection of learning notes, resources etc.
 
 * **02-08-2019**
   - learn about ```combineReducers()```
+
+* **03-09-2019**
+  - learn basics of typescript
+  - basic stuff - defining propTypes for react
+    - using Type vs. Iterface
+    - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx)
+    - for type use case [Typescript and React: Components](https://fettblog.eu/typescript-react/components/)
+    - Read more here: [Difference between TS Type vs. Interface](https://www.educba.com/typescript-type-vs-interface/)
