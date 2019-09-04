@@ -26,4 +26,8 @@
   - if we pass in the second parametr, it will trigger the `useEffect()` if `props` has changed
   - if we pass in an empty array as the second parametr, it will function _like_ _componentDidMount()_ lifecycle
 
+## `useCallback` Hook
+
+## React Memo
+
 # Basics of Typescript
