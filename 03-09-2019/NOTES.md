@@ -13,7 +13,7 @@
 - we can extract stateful logic from component
 - `useState` hook
   - `useState` returns a pair: _currentState_ and _function_ that lets me update it, we use array destructuring
-  - it **doesn't merge old state with new state** oppose to `class` based approach
+  - it **doesn't merge old state with new state** oppose to `class` based approach `this.setState()`
   - only argument for `useState` is initialState, the **initialState argument is only used during first render**
   
   [Counter Example](https://repl.it/repls/HumiliatingOnerlookedFirmware)
