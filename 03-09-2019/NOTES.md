@@ -28,8 +28,8 @@
 - first parametr is annonymous function
 - second parametr is is array
   - if we don't pass in the second parameter, it will always trigger the `useEffect()`
-  - if we pass in the second parametr, it will trigger the `useEffect()` if `props` has changed
-  - if we pass in an empty array as the second parametr, it will function _like_ _componentDidMount()_ lifecycle
+  - if we pass in the second parametr, it will trigger the `useEffect()` if `props` has changed, it will behave like _`componentDidUpdate()`_ lifecycle
+  - if we pass in an empty array as the second parametr, it will function _like_ _`componentDidMount()`_ lifecycle
 
 ## `useCallback` Hook
 
