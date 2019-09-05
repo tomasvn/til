@@ -13,7 +13,7 @@
 - we can extract stateful logic from component
 - `useState` hook
   - `useState` returns a pair: _currentState_ and _function_ that lets me update it, we use array destructuring
-    - eg. const `[count, setCount] = useState(0)`
+    - eg. `const [count, setCount] = useState(0)`
     - which could translate to
     - `const countState = useState(0)`
     - `const count = countState[0]`
