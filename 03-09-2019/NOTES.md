@@ -16,7 +16,7 @@
   - it **doesn't merge old state with new state** oppose to `class` based approach
   - only argument for `useState` is initialState, the **initialState argument is only used during first render**
   
-  [https://repl.it/repls/HumiliatingOnerlookedFirmware](Counter Example)
+  [Counter Example](https://repl.it/repls/HumiliatingOnerlookedFirmware)
 
 ## `useEffect` Hook
 - takes in 2 parametrs
