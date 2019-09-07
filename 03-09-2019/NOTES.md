@@ -34,5 +34,9 @@
 ## `useCallback` Hook
 
 ## React Memo
+- use `memo()` if components renders the same result given the same props
+- similiar to `React.PureComponent` but for functional components
+- used for performance boost
+- it will trigger memozation algorithm => react skips rendering the component and will reuse last render result
 
 # Basics of Typescript
