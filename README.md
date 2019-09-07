@@ -37,9 +37,15 @@ Is a collection of learning notes, resources etc.
 
 * **03-09-2019**
   - learn about basic react hooks
-  - learn basics of typescript
-  - basic stuff - defining propTypes for react
-    - using Type vs. Iterface
-    - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx)
-    - for type use case [Typescript and React: Components](https://fettblog.eu/typescript-react/components/)
-    - Read more here: [Difference between TS Type vs. Interface](https://www.educba.com/typescript-type-vs-interface/)
+
+* **07-09-2019**
+  - PLAN:
+    - learn basics of typescript
+    - [Reference Video - TS](https://www.youtube.com/watch?v=NjN00cM18Z4)
+
+  - IF POSSIBLE LEARN MORE:
+    - basic stuff - defining propTypes for react
+      - using Type vs. Iterface
+      - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx)
+      - for type use case [Typescript and React: Components](https://fettblog.eu/typescript-react/components/)
+      - Read more here: [Difference between TS Type vs. Interface](https://www.educba.com/typescript-type-vs-interface/)
