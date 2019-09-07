@@ -40,4 +40,4 @@
 - it will trigger memozation algorithm => react skips rendering the component and will reuse last render result
 
 # Basics of Typescript
-- _see entry_ [07-09-2019 NOTES]()
+- _see entry_ [07-09-2019 NOTES](https://github.com/tomasvn/til/blob/master/07-09-2019/NOTES.md)
