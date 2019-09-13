@@ -4,8 +4,8 @@
 
 # Basic Typescript
 
-[TS React Video Reference](https://www.youtube.com/watch?time_continue=3&v=Z5iWr6Srsj8)
-[TS Video Reference](https://www.youtube.com/watch?v=NjN00cM18Z4)
+- [TS React Video Reference](https://www.youtube.com/watch?time_continue=3&v=Z5iWr6Srsj8)
+- [TS Video Reference](https://www.youtube.com/watch?v=NjN00cM18Z4)
 
 ## TypeScript
 - TS is superset of JS
