@@ -15,7 +15,7 @@
   - constructors
   - fields
   - interfaces etc.
-- we can catch errors and compilation
+- we can catch errors on compilation
 
 ## Type Annotations
 - types are annotated using `:TypeAnnotation` syntax
