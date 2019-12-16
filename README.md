@@ -46,6 +46,17 @@ Is a collection of learning notes, resources etc.
   - IF POSSIBLE LEARN MORE:
     - basic stuff - defining propTypes for react
       - using Type vs. Iterface
-      - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx)
+      - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx) 
       - for type use case [Typescript and React: Components](https://fettblog.eu/typescript-react/components/)
       - Read more here: [Difference between TS Type vs. Interface](https://www.educba.com/typescript-type-vs-interface/)
+
+* **03-12-2019**
+- learned about types in TS
+- how to define proper types for react props
+- how to define default values for FC in TS
+- how to handle types for `onClick` and other methods
+- what are angle brackets `<>` in TS
+
+* **16-12-2019**
+- learned new git command - `git cherry -v`
+- different reset methods on git
