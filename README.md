@@ -8,48 +8,62 @@ Is a collection of learning notes, resources etc.
   <summary>
     <strong>10-07-2019<strong>
   </summary>
-  - talks about callback function in ```setState()```
-  - discover different object methods in JS such as ```Object.keys()```, ```Object.entries()```, ```Object.values()```
-  - discover ```.filter()``` array method
+    <ul>
+      <li>talks about callback function in <code>setState()</code></li>
+      <li>discover different object methods in <code>Object.keys()</code>,<code>Object.entries()</code>,<code>Object.values()</code></li>
+      <li>discover <code>.filter()</code> array method</li>
+    </ul>
 </details>
 
 <details>
   <summary>
     <strong>11-07-2019<strong>
   </summary>
-  - general learning
-  - discover new git command ```git show <COMMIT_HASH> --name-only```
+      <ul>
+        <li>general learning</li>
+        <li>discover new git command <code>git show <COMMIT_HASH> --name-only</code></li>
+      </ul>
 </details>
 
 <details>
   <summary>
     <strong>16-07-2019</strong>
   </summary>
-  - redux learning
-  - talks about what is redux
-  - how redux is divided
-  - what are actions, reducer, selectors
-  - how to create store, how to connect store to react app
+  <ul>
+    <li>redux learning</li>
+    <li>talks about what is redux</li>
+    <li>how redux is divided</li>
+    <li>what are actions, reducer, selectors</li>
+    <li>how to create store, how to connect store to react app</li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>21-07-2019</strong>
   </summary>
-  - continue learning about redux
-  - how to connect redux and react - via ```connect()``` method
-    - we know that ```connect()``` method takes in 3 params
-  - learn about redux selectors
-  - learn about function ```mapStateToProps```
+  <ul>
+    <li>continue learning about redux</li>
+    <li>how to connect redux and react - via <code>connect()</code> method</li>
+    <li>
+      <ul>
+        <li>we know that <code>connect()</code> method takes in 3 params</li>
+      </ul>
+    </li>
+    <li>learn about redux selectors</li>
+    <li>learn about function <code>mapStateToProps</code></li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>26-07-2019</strong>
   </summary>
-  - continue learning about redux
-  - general learning - intersection observer, hoisting, block scope
-  - quick refresher on object methods, array methods
+  <ul>
+   <li>continue learning about redux</li>
+   <li>general learning - intersection observer, hoisting, block scope</li>
+  <li>continue learning about redux</li> 
+  </ul>
 </details>
 
 <details>
