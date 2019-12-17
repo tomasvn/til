@@ -56,55 +56,61 @@ Is a collection of learning notes, resources etc.
   <summary>
     <strong>02-08-2019</strong>
   </summary>
-  - learn about ```combineReducers()```
+  <ul>
+    <li>learn about <code>combineReducers()</code></li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>03-09-2019</strong>
   </summary>
-  - learn about basic react hooks
+  <ul>
+    <li>learn about basic react hooks</li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>07-09-2019</strong>
   </summary>
-  - PLAN:
-    - learn basics of typescript
-    - [Reference Video - TS](https://www.youtube.com/watch?v=NjN00cM18Z4)
-
-  - IF POSSIBLE LEARN MORE:
-    - basic stuff - defining propTypes for react
-      - using Type vs. Iterface
-      - for iterface use case check [Codesandbox Repo](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/components/Alert/Alert.tsx) 
-      - for type use case [Typescript and React: Components](https://fettblog.eu/typescript-react/components/)
-      - Read more here: [Difference between TS Type vs. Interface](https://www.educba.com/typescript-type-vs-interface/)
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=NjN00cM18Z4" target="_blank" rel="noopener">learn basics of typescript</a></li>
+    <li>using Type vs. Iterface</li>
+    <li><a href="https://fettblog.eu/typescript-react/components/" target="_blank" rel="noopener">for type use case</a></li>
+    <li><a href="https://www.educba.com/typescript-type-vs-interface/" rel="noopener">Difference between TS Type vs. Interface</a></li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>03-12-2019</strong>
   </summary>
-- learned about types in TS
-- how to define proper types for react props
-- how to define default values for FC in TS
-- how to handle types for `onClick` and other methods
-- what are angle brackets `<>` in TS
+  <ul>
+    <li>learned about types in TS</li>
+    <li>how to define proper types for react props</li>
+    <li>how to define default values for FC in TS</li>
+    <li>how to handle types for `onClick` and other methods</li>
+    <li>what are angle brackets `<>` in TS</li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>16-12-2019</strong>
   </summary>
-- learned new git command - `git cherry -v`
-- different reset methods on git
+  <ul>
+    <li>learned new git command - `git cherry -v`</li>
+    <li>different reset methods on git</li>
+  </ul>
 </details>
 
 <details>
   <summary>
     <strong>17-12-2019</strong>
   </summary>
-  - learned how to properly define state on class component in TS
-  - learned how to revert commit or multiple commits, using git stash, short git status output
+  <ul>
+    <li>learned how to properly define state on class component in TS</li>
+    <li>learned how to revert commit or multiple commits, using git stash, short git status output</li>
+  </ul>
 </details>
