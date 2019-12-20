@@ -24,6 +24,7 @@ class Component extends PureComponent<Props, State> {
 
 - `typeof` - is a type query, that obtains an identifier or property access expression _(multiple identifiers connected by dot)_
 - we are using it as type alias
+- [Read More abput typeof](https://mariusschulz.com/blog/type-queries-and-typeof-in-typescript)
 
 ## :mortar_board: General learning
 
