@@ -134,7 +134,7 @@ Is a collection of learning notes, resources etc.
     <strong>18-12-2019</strong>
   </summary>
   <ul>
-    <li>Non-null assertion operator - post-fix `!` ooperator</li>
+    <li>Non-null assertion operator - post-fix `!` operator</li>
     <li>Pretty git log graph, one line</li>
     <li>PS creating new file from CLI</li>
   </ul>
