@@ -139,3 +139,11 @@ Is a collection of learning notes, resources etc.
     <li>PS creating new file from CLI</li>
   </ul>
 </details>
+
+<details>
+  <summary>27-12-2019</summary>
+  <ul>
+    <li>Setup webpack configs</li>
+    <li>Babel plugins - what each individual plugin does</li>
+  </ul>
+</details>
