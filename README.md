@@ -139,3 +139,13 @@ Is a collection of learning notes, resources etc.
     <li>PS creating new file from CLI</li>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <strong>07-01-2020</strong>
+  </summary>
+  <ul>
+    <li>rebasing onto feat-branch</li>
+    <li>use <code>git rebase --onto dev</code>, must be checked out on <code>feat-branch</code></li>
+  </ul>
+</details>
