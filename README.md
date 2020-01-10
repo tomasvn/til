@@ -159,3 +159,12 @@ Is a collection of learning notes, resources etc.
     <li>use <code>git rebase --onto dev</code>, must be checked out on <code>feat-branch</code></li>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <strong>10-01-2020</strong>
+  </summary>
+  <ul>
+    <li>git diff --cached for staged diff</li>
+  </ul>
+</details>
