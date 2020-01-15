@@ -165,6 +165,20 @@ Is a collection of learning notes, resources etc.
     <strong>10-01-2020</strong>
   </summary>
   <ul>
-    <li>git diff --cached for staged diff</li>
+    <li><code>git diff --cached</code> for staged diff</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>15-01-2020</strong>
+  </summary>
+  <ul>
+    <li><code>git remote -v</code> for listing remotes</li>
+    <li><code>git remote set-url origin [REPO_URL.git]</code> for changing remote URL</li>
+    <li><code>?</code> - use as optional chaining</li>
+    <ul>
+      <li>experimental feature, use sparringly</li>
+    </ul>
   </ul>
 </details>
