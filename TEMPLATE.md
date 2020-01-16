@@ -2,4 +2,4 @@
 
 :calendar:
 
-# General Learning
+## :mortar_board: General Learning

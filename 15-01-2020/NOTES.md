@@ -2,16 +2,16 @@
 
 :calendar: 15-01-2019
 
-# List remotes
+## List remotes
 
 - `git remote -v`
 
-# Change remote URL
+## Change remote URL
 
 - `git remote set-url origin <REPO_URL.git>`
 - `<REPO_URL>` - either `https` or `ssh` link
 
-# Typescript - Optional Chaining
+## Typescript - Optional Chaining
 
 - uses `?` operator
 - used for deeply nested objects, the expression short-circuit - returns undefined
