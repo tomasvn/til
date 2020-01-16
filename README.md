@@ -182,3 +182,14 @@ Is a collection of learning notes, resources etc.
     </ul>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <strong>16-01-2020</strong>
+  </summary>
+  <ul>
+    <li><code>git add -p</code> for interactive add</li>
+    <li><code>git rebase -i HEAD~{n}</code> for interactive rebase</li>
+    <li>Unix - copy text from one file into another file <code>cat NOTES.md > NOTES-2.md</code></li>
+  </ul>
+</details>
