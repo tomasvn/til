@@ -2,7 +2,7 @@
 
 git add -A
 
-NOW=$(date +"%d-m%-Y&")
+NOW=$(date +"%d-%m-%Y")
 
 git commit -m "Add new entry $NOW"
 
