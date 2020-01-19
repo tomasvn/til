@@ -193,3 +193,12 @@ Is a collection of learning notes, resources etc.
     <li>Unix - copy text from one file into another file <code>cat NOTES.md > NOTES-2.md</code></li>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <strong>17-01-2020</strong>
+  </summary>
+  <ul>
+    <li>TO BE ADDED</li>
+  </ul>
+</details>
