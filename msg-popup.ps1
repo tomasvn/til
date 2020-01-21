@@ -2,6 +2,7 @@
 
 # http://woshub.com/popup-notification-powershell/
 
+Start-Sleep -s 3
 Add-Type -AssemblyName System.Windows.Forms
 $global:balmsg = New-Object System.Windows.Forms.NotifyIcon
 $path = (Get-Process -id $pid).Path
@@ -10,4 +11,4 @@ $balmsg.BalloonTipIcon = [System.Windows.Forms.ToolTipIcon]::Info
 $balmsg.BalloonTipText = "Commit has been pushed to remote repo"
 $balmsg.BalloonTipTitle = "Attention $Env:USERNAME"
 $balmsg.Visible = $true
-$balmsg.ShowBalloonTip(3000)
+$balmsg.ShowBalloonTip(1000)
