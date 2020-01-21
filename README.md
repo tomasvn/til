@@ -199,6 +199,29 @@ Is a collection of learning notes, resources etc.
     <strong>17-01-2020</strong>
   </summary>
   <ul>
-    <li>TO BE ADDED</li>
+    <li>interactive rebase - <code>git rebase -i</code></li>
+    <li>interactive rebase - <code>git rebase -i HEAD~n</code> we can specify which commits, <code>n</code> is number of commits</li>
+      <ul>
+        <li>interactive rebase we can squash, drop, use, edit etc</li>
+      </ul>
+    <li>rewrites history</li>
+    <li>reflog - is a reference log</li>
+      <ul>
+        <li>record when the tips of branches where updated</li>
+        <li>keeps record for 90 days</li>
+      </ul>
+    <li><code>git gc</code> - garbage collection</li>
+    <li>can compress file revision</li>
+    <li><code>git bisect</code> - binary search between 2 commits</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>21-01-2020</strong>
+  </summary>
+  <ul>
+    <li>using git clean to remove untracked files</li>
+    <li>different commands - for deleting dir, files, ignored files, non ignored files</li>
   </ul>
 </details>
