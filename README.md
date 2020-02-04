@@ -225,3 +225,12 @@ Is a collection of learning notes, resources etc.
     <li>different commands - for deleting dir, files, ignored files, non ignored files</li>
   </ul>
 </details>
+
+<details>
+  <summary>
+    <strong>02-02-2020</strong>
+  </summary>
+  <ul>
+    <li>basic about cookies</li>
+  </ul>
+</details>
