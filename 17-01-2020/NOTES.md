@@ -34,7 +34,7 @@
 ### Fix with rewind / replay
 
 - If I want to check in which commit has been failing in CI pipeline
-- I can rest repo using reflog
+- I can reset repo using reflog
 - Run `rebase --exec test-cmd` by running with options `--exec` we are telling git to execute test-script
 
 ### Git bisect
