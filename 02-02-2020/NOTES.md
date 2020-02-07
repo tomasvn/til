@@ -11,6 +11,7 @@
 - cookies are sent with every request
 - 20 cookies per domain
 - cookies are paired to domain
+- if `max-age` or `expires` is not set cookie will be destroyed upon closing the browser, such cookie is called _session cookie_
 
 ### Creating Cookie
 - they are set by web-server response `Set-cookie` header, (_it is a response header_) - server side
@@ -29,8 +30,8 @@
 - Authentication
 
 ### Cookies types
-- session cookie
-- pernament cookie
+- session cookie - temporary, erased upon closing
+- persistent cookie (pernament cookie) - will remain on harddrive upon deleting or when they expire
 - httpOnly cookie
 - secure cookie
 - 3rd party cookie
