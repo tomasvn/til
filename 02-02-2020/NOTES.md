@@ -12,6 +12,7 @@
 - 20 cookies per domain
 - cookies are paired to domain
 - if `max-age` or `expires` is not set cookie will be destroyed upon closing the browser, such cookie is called _session cookie_
+- `max-age` is **not** supported by IE
 
 ### Creating Cookie
 - they are set by web-server response `Set-cookie` header, (_it is a response header_) - server side
