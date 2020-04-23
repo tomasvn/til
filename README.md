@@ -246,3 +246,5 @@ Is a collection of learning notes, resources etc.
     <li>extra info about cookies</li>
   </ul>
 </details>
+
+## JS Notes
