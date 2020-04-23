@@ -2,7 +2,7 @@
 
 NOW=$(date +"%d-%m-%Y")
 
-mkdir "$NOW"
+mkdir "./GENERAL_LEARNING/$NOW"
 
 cd "$NOW"
 
