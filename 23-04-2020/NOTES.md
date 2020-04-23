@@ -5,7 +5,7 @@
 ## :mortar_board: Tokens continue
 
 ### Previous TIL entry
-- [02-02-2020](02-02-2020/NOTES.md)
+- [02-02-2020](https://github.com/tomasvn/til/blob/master/02-02-2020/NOTES.md)
 
 - Difference between
   - Authentication - verify identity (401 Unauthorized)
