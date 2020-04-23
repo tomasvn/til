@@ -62,7 +62,7 @@ Is a collection of learning notes, resources etc.
   <ul>
    <li>continue learning about redux</li>
    <li>general learning - intersection observer, hoisting, block scope</li>
-  <li>continue learning about redux</li> 
+  <li>continue learning about redux</li>
   </ul>
 </details>
 
@@ -232,5 +232,17 @@ Is a collection of learning notes, resources etc.
   </summary>
   <ul>
     <li>basic about cookies</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>23-04-2020</strong>
+  </summary>
+  <ul>
+    <li>client storage - cookies, session, local storage</li>
+    <li>features of different storages</li>
+    <li>talks about flows authetication and authorization</li>
+    <li>extra info about cookies</li>
   </ul>
 </details>
