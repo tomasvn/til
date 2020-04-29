@@ -73,6 +73,7 @@ const newOutput = multiplyBy2(10);
 - when executing functions, we create new execution context,
 first we have a global execution context
   - initially we have global execution context, phase - creation
+  - every context will have 2 phases - creation and execution phase
 - "thread" will go line by line and store stuff in memory
 - everything in function will be stored in local memory
 - we keep track of execution context in call stack
