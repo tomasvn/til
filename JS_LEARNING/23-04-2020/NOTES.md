@@ -70,7 +70,9 @@ const newOutput = multiplyBy2(10);
   - when we execute multiplyBy2 we add it on top of stack, when we step out of it, remove the call from the stack (or we pop it off)
 
 ### Summary
-- when executing functions, we create new execution context
+- when executing functions, we create new execution context,
+first we have a global execution context
+  - initially we have global execution context, phase - creation
 - "thread" will go line by line and store stuff in memory
 - everything in function will be stored in local memory
 - we keep track of execution context in call stack
