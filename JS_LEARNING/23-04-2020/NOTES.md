@@ -81,6 +81,7 @@ first we have a global execution context
 ### Follow along with video
 
 - [Video Reference - An Introduction to Functions, Execution Context and the Call Stack](https://youtu.be/exrc_rLj5iw)
+- [Video Reference - The Ultimate Guide to Execution Contexts, Hoisting, Scopes and Closures](https://youtu.be/Nt-qa_LlUH0)
 
 - Learn about memory in JS
   - [JS Memory Model](https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239)
