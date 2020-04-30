@@ -67,7 +67,7 @@ const newOutput = multiplyBy2(10);
 
 - with the examples above the call stack would look like this:
   - at the bottom of the stack we start with global execution
-  - when we execute multiplyBy2 we add it on top of stack, when we step out of it, remove the call from the stack (or we pop it off)
+  - when we execute multiplyBy2 we add it on top of stack, when we step out of it (when the function is finished running), remove the call from the stack (or we pop it off)
 
 ### Summary
 - when executing functions, we create new execution context,
@@ -76,6 +76,7 @@ first we have a global execution context
   - every context will have 2 phases - creation and execution phase
 - "thread" will go line by line and store stuff in memory
 - everything in function will be stored in local memory
+- when function is invoked it will create a function execution context
 - we keep track of execution context in call stack
 
 ### Follow along with video
