@@ -2,12 +2,14 @@
 
 NOW=$(date +"%d-%m-%Y")
 
-mkdir "./GENERAL_LEARNING/$NOW"
+mkdir "$NOW"
 
-cd "$NOW"
+mv "$NOW" GENERAL_LEARNING
+
+cd "GENERAL_LEARNING/$NOW"
 
 touch NOTES.md
 
-cat "../TEMPLATE.md" > "./NOTES.md"
+cat "../../TEMPLATE.md" > "../../GENERAL_LEARNING/$NOW/NOTES.md"
 
 code NOTES.md
