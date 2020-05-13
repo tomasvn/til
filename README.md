@@ -247,4 +247,41 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>13-05-2020</strong>
+  </summary>
+  <ul>
+    <li>Learn basic SQL stuff</li>
+  </ul>
+</details>
+
 ## JS Notes
+
+<details>
+  <summary>
+    <strong>23-04-2020</strong>
+  </summary>
+  <ul>
+    <li>functions, call stack, execution</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>24-04-2020</strong>
+  </summary>
+  <ul>
+    <li>function declaration, function expression</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>29-04-2020</strong>
+  </summary>
+  <ul>
+    <li>Hoisting</li>
+    <li><strong>TODO: Finish video on hoisting</stropng></li>
+  </ul>
+</details>

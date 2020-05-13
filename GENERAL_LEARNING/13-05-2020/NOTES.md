@@ -93,3 +93,6 @@ FROM table_name;
 
 ## Learning resource
 - [Learning SQL - tutorial](https://app.sixweeksql.com/)
+
+## Practice
+- [Hackerrank]()
