@@ -95,4 +95,4 @@ FROM table_name;
 - [Learning SQL - tutorial](https://app.sixweeksql.com/)
 
 ## Practice
-- [Hackerrank]()
+- [Hackerrank](https://www.hackerrank.com/)
