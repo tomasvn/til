@@ -43,7 +43,6 @@ WHERE condition;
 - `varchar(int)` - can contain characters up to certain amount, that is defined as arg
 - `int` - integer, can hold floating numbers (12.22), whole numbers (12344)
 
-
 ### Creating Tables
 ```
 CREATE TABLE (

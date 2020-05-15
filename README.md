@@ -256,6 +256,16 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>15-05-2020</strong>
+  </summary>
+  <ul>
+    <li>ORDER BY Statement</li>
+    <li>SELECT TOP Statement</li>
+  </ul>
+</details>
+
 ## JS Notes
 
 <details>
