@@ -263,6 +263,7 @@ Is a collection of learning notes, resources etc.
   <ul>
     <li>ORDER BY Statement</li>
     <li>SELECT TOP Statement</li>
+    <li>IN Operator</li>
   </ul>
 </details>
 

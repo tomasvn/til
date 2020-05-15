@@ -27,6 +27,17 @@ ORDER BY Country DESC;
 - The `SELECT TOP` clause is used to specify the number of records to return.
 - in MySQL - we need to use `LIMIT` clause to select limited number of records
 
+### IN Operator
+
+- `IN` operator allows you to specify multiple values in a `WHERE` clause.
+- `IN` operator is a shorthand for multiple `OR` conditions.
+
+```
+SELECT column_name(s)
+FROM table_name
+WHERE column_name IN (value1, value2, ...);
+```
+
 ### MySQL Example
 
 ```
