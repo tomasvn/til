@@ -267,6 +267,15 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>16-05-2020</strong>
+  </summary>
+  <ul>
+    <li>LIKE Operator</li>
+  </ul>
+</details>
+
 ## JS Notes
 
 <details>
