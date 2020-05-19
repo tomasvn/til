@@ -276,6 +276,16 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>19-05-2020</strong>
+  </summary>
+  <ul>
+    <li>MAX and ROUND MySQL Functions</li>
+    <li>Practice on HackerRank</li>
+  </ul>
+</details>
+
 ## JS Notes
 
 <details>
