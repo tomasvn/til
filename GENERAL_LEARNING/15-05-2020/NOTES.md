@@ -4,6 +4,22 @@
 
 ## :mortar_board: General Learning
 
+### DB
+
+- DB - is a collection of any related data
+
+### Types of DB
+
+- Relation DB (SQL)
+  - organize data into one or more tables - which have rows and columns
+  - unique key identifies each row
+
+- Non-Relation DB (no-SQL)
+  - organize data in anything but a traditional table
+  - key-value stores
+  - documents (JSON, XML etc.)
+  - graphs
+
 ### ORDER BY Statement
 
 - used to sort the result in ascending order by default
