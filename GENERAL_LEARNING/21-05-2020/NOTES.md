@@ -47,7 +47,6 @@ WHERE condition;
 ### Hacker Rank Practice
 - [x] Weather Observation Station 2
 - [x] Weather Observation Station 13
-- [ ] Weather Observation Station 15
 - [x] Weather Observation Station 16
 - [ ] Weather Observation Station 17
 
