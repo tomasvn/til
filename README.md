@@ -286,6 +286,16 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>21-05-2020</strong>
+  </summary>
+  <ul>
+    <li>MIN and TRUNCATE MySQL Functions</li>
+    <li>Practice on HackerRank</li>
+  </ul>
+</details>
+
 ## JS Notes
 
 <details>
