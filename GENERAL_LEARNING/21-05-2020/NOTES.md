@@ -48,7 +48,7 @@ WHERE condition;
 - [x] Weather Observation Station 2
 - [x] Weather Observation Station 13
 - [x] Weather Observation Station 16
-- [ ] Weather Observation Station 17
+- [x] Weather Observation Station 17
 
 ### Notes
 
@@ -77,4 +77,11 @@ SELECT TRUNCATE(MAX(LAT_N), 4) FROM STATION
 
 ```
 SELECT ROUND(MIN(LAT_N), 4) FROM STATION WHERE LAT_N > 38.7780
+```
+
+- 5.
+
+```
+SELECT ROUND(LONG_W, 4) FROM STATION
+    WHERE LAT_N = (SELECT MIN(LAT_N) FROM STATION WHERE LAT_N > 38.7780)
 ```
