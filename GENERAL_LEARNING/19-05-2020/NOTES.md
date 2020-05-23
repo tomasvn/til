@@ -33,7 +33,7 @@ MAX(expression)
 - [x] Higher Than 75 Marks
 - [x] Employee Names
 - [x] Employee Salaries
-- [ ] Weather Observation Station 15
+- [x] Weather Observation Station 15
 
 ### Notes
 - 1.
@@ -74,4 +74,11 @@ SELECT Name FROM Employee
     WHERE
         salary > 2000 AND months < 10 
         ORDER BY employee_id ASC
+```
+
+- 6.
+
+```
+SELECT ROUND(LONG_W, 4) FROM STATION
+    WHERE LAT_N = (SELECT MAX(LAT_N) FROM STATION WHERE LAT_N < 137.2345)
 ```
