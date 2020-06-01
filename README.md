@@ -296,6 +296,34 @@ Is a collection of learning notes, resources etc.
   </ul>
 </details>
 
+<details>
+  <summary>
+    <strong>25-05-2020</strong>
+  </summary>
+  <ul>
+    <li>Practice on HackerRank</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>27-05-2020</strong>
+  </summary>
+  <ul>
+    <li>FLOOR() MySQL Functions</li>
+    <li>Practice on HackerRank</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>01-06-2020</strong>
+  </summary>
+  <ul>
+    <li>Practice on HackerRank</li>
+  </ul>
+</details>
+
 ## JS Notes
 
 <details>
@@ -324,4 +352,10 @@ Is a collection of learning notes, resources etc.
     <li>Hoisting</li>
     <li><strong>TODO: Finish video on hoisting</stropng></li>
   </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>01-06-2020</strong>
+  </summary>
 </details>
