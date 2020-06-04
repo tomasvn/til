@@ -357,8 +357,8 @@ Is a collection of learning notes, resources etc.
 <details>
   <summary>
     <strong>01-06-2020</strong>
-    <ul>
-      <li>Practice on code wars</li>
-    </ul>
   </summary>
+  <ul>
+    <li>Practice on code wars</li>
+  </ul>
 </details>
