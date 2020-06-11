@@ -87,13 +87,13 @@ logName()
 - 2. Enter global execution context
   - Creation phase
     - 1. create global object
-    - 2. crate global object called `this`
+    - 2. create global object called `this`
     - 3. create variable, assign default value of `undefined`
     - 4. put function declaration into memory
     - 5. creation phase is complete
   - Enter execution phase
     - 1. we have global object - window
-    - 2. we have `window: this`
+    - 2. we have `this`
     - 3. assign the value of `Tomas` to the variable name
     - 4. we enter the function execution context of `logName()`
       - `logName(): Execution context`
