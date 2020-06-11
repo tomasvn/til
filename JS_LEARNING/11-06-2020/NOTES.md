@@ -104,3 +104,54 @@ logName()
 
 ### Closures - [Youtube link, continue](https://youtu.be/Nt-qa_LlUH0?t=1141)
 - TODO: Complete chapter on closures
+
+### Function Hoisting
+
+- function declaration can be invoked before declaring
+- during the creation phase, the JS engine recognise the function declaration and hoists it
+- **function declaration** starts with `function` keyword, followed by name of the function
+- **function expression** - are defined as anonymous function (without name) and is assigned to a variable,
+they are **not hoisted**
+
+- [Reference NOTES - 24-04-2020](../24-04-2020/NOTES.md)
+
+_Example function hoisting and function declaration_
+
+```
+sayHello()
+
+function sayHello() {
+  console.log('Hello')
+}
+
+Output: Hello
+```
+
+_Example function expression_
+
+```
+var hello = function() {
+  console.log('Hello')
+}
+
+hello()
+
+Output: Hello
+```
+
+_Non hoisted function expression_
+
+- during creation phase, the variable hello is hoisted and default value is set, to `undefined`
+- **does not** hoist the variable initiation, from the example below the `function() { console.log('Hello') }` is not hoisted
+
+```
+hello()
+
+var hello = function() {
+  console.log('Hello')
+}
+
+Output:
+Type Error: hello not a function, because during execution phase when we tried to call hello()
+the value was set to undefined and it is not a function
+```
