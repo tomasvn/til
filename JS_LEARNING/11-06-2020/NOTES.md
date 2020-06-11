@@ -155,3 +155,17 @@ Output:
 Type Error: hello not a function, because during execution phase when we tried to call hello()
 the value was set to undefined and it is not a function
 ```
+
+### IIFE Pattern
+
+- immediately invoked function expression
+- we can use this patter if we want to prevent a variable from becoming a global variable [1](http://speakingjs.com/es5/ch01.html#basic_var_scope_and_closures)
+- is invoked immediately upon creation
+
+_Example_
+
+```
+(function () {
+  var tmp = '...'
+}())
+```
