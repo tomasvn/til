@@ -35,7 +35,7 @@
       - 2. we will have `this`
     - when the `fn` is finished executing it will be removed from executing stack
 
-- if we take an _example_ - use the javascript visualizer
+- if we take an _example_ - use the [javascript visualizer](https://tylermcginnis.com/javascript-visualizer/)
 
 ```
 var name = 'Tomas';
@@ -71,7 +71,7 @@ getUser()
 
 - if JS engine cannot find a local variable to the function execution context it will look into nearest parent execution context for that variable, the search will continue until it reaches a global execution context
 
-_Example_ - Use the javascript visualizer with the example
+_Example_ - Use the [javascript visualizer](https://tylermcginnis.com/javascript-visualizer/) with the example
 
 ```
 var name = 'Tomas'
@@ -110,6 +110,8 @@ logName()
 - function declaration can be invoked before declaring
 - during the creation phase, the JS engine recognise the function declaration and hoists it
 - **function declaration** starts with `function` keyword, followed by name of the function
+  - fn declaration are put in memory before execution phase
+  - so we can invoke function before declaring
 - **function expression** - are defined as anonymous function (without name) and is assigned to a variable,
 they are **not hoisted**
 
