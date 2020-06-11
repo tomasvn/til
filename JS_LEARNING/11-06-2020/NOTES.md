@@ -100,5 +100,7 @@ logName()
       - no local variable
       - go up the scope chain, until we have found the variable
 
+- **initialisation are not hoisted**
+
 ### Closures - [Youtube link, continue](https://youtu.be/Nt-qa_LlUH0?t=1141)
 - TODO: Complete chapter on closures
