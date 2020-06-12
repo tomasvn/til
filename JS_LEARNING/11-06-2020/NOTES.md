@@ -8,6 +8,12 @@
 
 - working on execution context, hoisting, scope, closures
 
+### Functions
+
+- are first-class objects, because they can have properties and methods [ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- every function is a `Function` object
+- difference between other objects is that functions can be invoked
+
 #### Execution Context - Global context
 
 - When JS starts interpreting code it will create a global execution context
