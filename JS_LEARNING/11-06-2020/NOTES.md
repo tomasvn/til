@@ -108,8 +108,12 @@ logName()
 
 - **initialisation are not hoisted**
 
+---
+
 ### Closures - [Youtube link, continue](https://youtu.be/Nt-qa_LlUH0?t=1141)
-- TODO: Complete chapter on closures
+- **TODO**: Complete chapter on closures
+
+---
 
 ### Function Hoisting
 

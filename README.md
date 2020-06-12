@@ -350,7 +350,7 @@ Is a collection of learning notes, resources etc.
   </summary>
   <ul>
     <li>Hoisting</li>
-    <li><strong>TODO: Finish video on hoisting</stropng></li>
+    <li><strong>TODO: Finish video on hoisting</strong></li>
   </ul>
 </details>
 
@@ -360,5 +360,14 @@ Is a collection of learning notes, resources etc.
   </summary>
   <ul>
     <li>Practice on code wars</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>11-06-2020</strong>
+  </summary>
+  <ul>
+    <li>Worked on hoisting, execution context</li>
   </ul>
 </details>
