@@ -171,7 +171,7 @@ the value was set to undefined and it is not a function
 ### IIFE Pattern
 
 - immediately invoked function expression
-- we can use this patter if we want to prevent a variable from becoming a global variable [1](http://speakingjs.com/es5/ch01.html#basic_var_scope_and_closures)
+- we can use this pattern if we want to prevent a variable from becoming a global variable [ref](http://speakingjs.com/es5/ch01.html#_the_iife_pattern_introducing_a_new_scope)
 - is invoked immediately upon creation
 
 _Example_
