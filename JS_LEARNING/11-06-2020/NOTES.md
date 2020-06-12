@@ -181,3 +181,5 @@ _Example_
   var tmp = '...'
 }())
 ```
+
+### Scope

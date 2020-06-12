@@ -18,7 +18,7 @@
 ### :books: READ ME
 - [JWT vs. Session Cookies](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
 - [Stateful and stateless authentication](https://medium.com/@kennch/stateful-and-stateless-authentication-10aa3e3d4986)
-- [Session storage vs. Local storage vs Cookie](https://dev.to/bogicevic7/session-storage-vs-local-storage-vs-cookie-elc)
+- ~~[Session storage vs. Local storage vs Cookie](https://dev.to/bogicevic7/session-storage-vs-local-storage-vs-cookie-elc)~~
 
 ### Client Storage
 
@@ -30,7 +30,14 @@
 - not secure
 - plain text
 
-#### Session Storage
+### Session Storage
+- key-value store
+- stores data **until tab is closed or browser is closed**
+- data cannot be sent to server
+- can be read from client only
+- storage limit 5 MB
+
+#### Session Cookies
 - every user session is stored on server-side
 - sessions can be stored in memory, cache or DB
 - users are identified by session ID
