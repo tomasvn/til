@@ -9,3 +9,7 @@
 - the current context of execution, context in which values and expressions are "visible" or can be referenced [ref](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - each function creates a scope
 - we have also `lexical scope`
+
+### :book: Read Section
+- [JS Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
+- [JS Closure](https://www.javascript.info/closure)
