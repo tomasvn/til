@@ -6,10 +6,10 @@
 
 ### Working through JS Course
 
-| Component         | Completed     | Code                                                          |
-| ----------------- |:-------------:| -------------------------------------------------------------:|
-| Off-canvas menu   | [x]           | [CodeSandbox](https://codesandbox.io/s/off-canvas-menu-kpuc1) |
-| Modal             | [x]           | [CodeSandbox](https://codesandbox.io/s/modal-msq51)           |
+| Component         | Completed          | Code                                                          |
+| ----------------- |:------------------:| -------------------------------------------------------------:|
+| Off-canvas menu   | :heavy_check_mark: | [CodeSandbox](https://codesandbox.io/s/off-canvas-menu-kpuc1) |
+| Modal             | :heavy_check_mark: | [CodeSandbox](https://codesandbox.io/s/modal-msq51)           |
 
 
 ### Scope
