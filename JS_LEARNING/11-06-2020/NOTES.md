@@ -7,6 +7,13 @@
 ### [Reference - to Hoisting, context etc](../23-04-2020/NOTES.md)
 
 - working on execution context, hoisting, scope, closures
+- _note_ - `let` and `const` are hoisted, but are not initialized
+  - example:
+    ```
+      console.log(x)
+      let x = 5
+    ```
+  - `x` would return `ReferenceError`
 
 ### Functions
 
