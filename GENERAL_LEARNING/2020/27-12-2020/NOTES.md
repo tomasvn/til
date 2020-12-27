@@ -20,4 +20,6 @@
   - `e` key moves to the end of the word
   - `b` key moves to the beggining of the word
   - numbers can be combined with movement keys
+- to delete character use the key `x`
+  - numbers can be combined with the delete key
 - to quit vim - press esc, enter `COMMAND` mode, enter `:q`
