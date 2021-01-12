@@ -1,15 +1,22 @@
 #!/bin/bash
+# Shell to create folder with markdown file
 
 NOW=$(date +"%d-%m-%Y")
+YEAR=$(date +"%Y")
 
-mkdir "$NOW"
+if [ ! -d "GENERAL_LEARNING/$YEAR/$NOW/" ]
+  then mkdir "$NOW"
 
-mv "$NOW" GENERAL_LEARNING
+  mv "$NOW" "GENERAL_LEARNING/$YEAR/"
 
-cd "GENERAL_LEARNING/$NOW"
+  cd "GENERAL_LEARNING/$YEAR/$NOW"
 
-touch NOTES.md
+  touch NOTES.md
 
-cat "../../TEMPLATE.md" > "../../GENERAL_LEARNING/$NOW/NOTES.md"
+  cat "../../../TEMPLATE.md" > "../../../GENERAL_LEARNING/$YEAR/$NOW/NOTES.md"
 
-code NOTES.md
+  code NOTES.md
+  else
+    echo "Error directory already exists"
+  exit 1
+fi
