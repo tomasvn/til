@@ -17,7 +17,8 @@
 - use `u` - undo command, `U` - fix whole line
 - use `CTRL + R` - to redo commands
 
-- continue with :book: VIM tutor - lesson 3.1
+- continue with :book: VIM tutor - lesson 3.2
+- learn about `PUT COMMAND` - use `p` to put previously deleted text after the cursor - reference VIM tutor lesson 3.1
 
 ### VS Code
 
