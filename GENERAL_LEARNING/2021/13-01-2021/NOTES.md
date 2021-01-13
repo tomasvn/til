@@ -6,6 +6,8 @@
 
 ### VIM tutor
 
+- extra note - `:w` - will save the file
+
 - continuing from :book: lesson 2.4
 - use `dd` - to delete whole line
   - to delete multiple line - `<d number motion>`
