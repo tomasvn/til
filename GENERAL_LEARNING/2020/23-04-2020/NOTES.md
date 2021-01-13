@@ -5,7 +5,7 @@
 ## :mortar_board: Tokens continue
 
 ### Previous TIL entry
-- [02-02-2020](https://github.com/tomasvn/til/blob/master/2020/02-02-2020/NOTES.md)
+- [02-02-2020](https://github.com/tomasvn/til/blob/master/GENERAL_LEARNING/2020/02-02-2020/NOTES.md)
 
 - Difference between
   - Authentication - verify identity (401 Unauthorized)
@@ -57,7 +57,7 @@
 - 7) User logs out, server removes sessions, clears cookies
 
 #### Cookies - extra info
-- reference [02-02-2020](2020/02-02-2020/NOTES.md)
+- reference [02-02-2020](https://github.com/tomasvn/til/blob/master/GENERAL_LEARNING/2020/02-02-2020/NOTES.md)
 - used in personalization tracking, session management
 - on server signed with HMAC (hashing algorithm)
 - a set of random letters and numbers - string
