@@ -1,6 +1,6 @@
 # Today I have learned
 
-:calendar: 21-01-202
+:calendar: 21-01-2020
 
 ## :mortar_board: General Learning
 
