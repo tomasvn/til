@@ -26,5 +26,5 @@
 
 - change focus of group panels (opened via `CTRL + \`) - press `CTRL + 1` etc.
 - change focus to terminal - press ``CTRL + ` `` which also openes and closes integrated terminal
-- open / close sidebar - press `CTRL + b
+- open / close sidebar - press `CTRL + b`
 - open new terminal - press ``CTRL + Shift + ` ``
