@@ -13,3 +13,8 @@
 - `CHANGE COMMAND` - press `c` key follwing by the character or word that should change to, when pressing this key we will enter `INSERT` mode
 
 - continue with :book: VIM Tutor - lessong 4.1
+
+### VS Code
+
+- `View: show explorer` - press `CTRL + Shift + e`
+
