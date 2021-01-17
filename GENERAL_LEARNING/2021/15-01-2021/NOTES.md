@@ -17,4 +17,3 @@
 ### VS Code
 
 - `View: show explorer` - press `CTRL + Shift + e`
-
