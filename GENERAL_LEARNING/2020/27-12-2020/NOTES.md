@@ -6,9 +6,10 @@
 
 ### VIM
 
-- has 2 modes - `INSERT` and `NORMAL` mode
-- `INSERT` mode is for writing normal text
-- `NORMAL` mode is for quick navigation and manipulation
+- has 3 modes - `INSERT`, `NORMAL`, `VISUAL` mode
+  - `INSERT` mode is for writing normal text
+  - `NORMAL` mode is for quick navigation and manipulation
+  - `VISUAL` mode is for selecting text
 - to switch between modes just press `Esc` and then press the `i` key for `INSERT` mode
 - to move around with cursor use the `h`, `j`, `k`, `l`
   - `h` key is to move left
