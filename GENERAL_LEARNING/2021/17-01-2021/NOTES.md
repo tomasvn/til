@@ -24,6 +24,11 @@
   - to search for phrase in the backward direction use `?`
 - to go back in search - use `CTRL + o`
 - to go forward in search - use `CTRL + i`
+- use `I` - to enter `INSERT` mode at the first non-blank character
+- use `A` - to enter the `INSERT` at the end of the line
+- use `o` - to enter `INSERT` mode on the next line
+- use `O` - to enter `INSERT` mode above the line
+- extra tip - to escape `INSERT` mode use either `ESC` or `CTRL + [`
 
 ### General VIM shortcuts
 
