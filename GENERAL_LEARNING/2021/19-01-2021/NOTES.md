@@ -8,6 +8,7 @@
 
 - use `y` - to copy line from `VISUAL` mode
 - use `v` - to change to `VISUAL` mode
+- or use simply - `yy` to copy line
 
 ### VS Code shortcuts
 
