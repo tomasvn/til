@@ -10,7 +10,7 @@
 
 - reference [VIM navigating tips](https://www.youtube.com/watch?v=Qem8cpbJeYc&ab_channel=thoughtbot)
 
-- use `G` - to go to end of file
+- use `GG` - to go to end of file
 - use `gg` - to go to the beggining of file
 - use `<number>G` or `<number>gg` - to go to particular line
 - use `M` - to navigate to middle part of the screen
