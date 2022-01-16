@@ -1,2 +1,6 @@
+@forward "./abstracts/variables";
 @forward './abstracts/global';
-@forward './components/home';
+@forward './base/normalize';
+@forward './utilities/spacing';
+@forward './layout/container';
+@forward './components';

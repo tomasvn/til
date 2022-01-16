@@ -2,13 +2,39 @@
 interface Props {
 	title: string;
 	stylesUrl?: string;
+  ogUrl?: string;
+  ogTitle?: string;
+  ogSiteName?: string;
+  ogAuthor?: string;
+  ogDescription?: string;
+  ogImg?: string;
 }
 
-const { title, stylesUrl } = Astro.props;
+const {
+  title,
+  stylesUrl,
+  ogUrl,
+  ogTitle,
+  ogSiteName,
+  ogAuthor,
+  ogDescription,
+  ogImg
+} = Astro.props;
 ---
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>{title}</title>
+<meta name="description" content="A collection of notes, tips in web development">
+<meta property="og:url" content={ogUrl}>
+<meta property="og:type" content="website">
+<meta property="og:title" content={ogTitle}>
+<meta property="og:image" content={ogImg}>
+<meta property="og:description" content={ogDescription}>
+<meta property="og:site_name" content={ogSiteName}>
+<meta property="article:author" content={ogAuthor}>
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="stylesheet" href={Astro.resolve(stylesUrl)}>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro&display=swap" rel="stylesheet">

@@ -1,0 +1,22 @@
+---
+interface Props {
+  post: any;
+};
+
+const { post } = Astro.props;
+---
+
+<article class="preview-list__item">
+  <div class="preview-card">
+    <header class="preview-card__header">
+      <time class="preview-card__date">{post.publishDate}</time>
+        <h2 class="preview-card__title">
+          <a class="preview-card__title-link" href={post.url}>
+            {post.title}
+          </a>
+        </h2>
+      <p class="preview-card__description">{post.description}</p>
+      <a class="preview-card__link" href={post.url}>Read more</a>
+    </header>
+  </div>
+</article>

@@ -1,0 +1,19 @@
+.preview-card {
+  padding-bottom: 25px;
+  border-bottom: 3px solid;
+
+  &__title {
+    margin-top: 0;
+    font-size: 2rem;
+  }
+
+  &__title-link,
+  &__link {
+    text-decoration: none;
+    color: var(--light-color);
+  }
+
+  &__description {
+    margin-bottom: 20px;
+  }
+}
